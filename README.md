@@ -6,7 +6,7 @@ Another humble word of advice: it matters if your response variable is binary. I
 
 For visualizing the output, I cannot speak highly enough about `vcdExtra` (for non-phylogentic data).
 
-## For any data
+## For analysis of general data
 
 + [PennState graduate course on Analysis of Discrete Data](https://online.stat.psu.edu/stat504/lesson/welcome-stat-504)
   - [R programs specifically](https://online.stat.psu.edu/stat504/lesson/r-programs)
@@ -14,7 +14,7 @@ For visualizing the output, I cannot speak highly enough about `vcdExtra` (for n
 + [Categorical data analysis in R from Boston University](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R6_CategoricalDataAnalysis/index.html)
 + [Watch me personally test every kind of relationship under the sun for one binary response variable and 3 explanatory variables](https://ledelaney.org/projects/whitepapers/trait-association-model-fitting.htm)
 
-## For analyzing species data
+## For analysis of species data
 
 + [Phylogenetic linear regression for non-binary response data: R package `caper`](https://cran.r-project.org/web/packages/caper/vignettes/caper.pdf)
 + [Phylogenetic regression for binary response variable](https://leanpub.com/correlateddata/read#leanpub-auto-phylogenetic-regression-for-binary-data)
