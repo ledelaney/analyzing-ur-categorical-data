@@ -4,7 +4,7 @@
 
 This repo includes a collection of resources that may be helpful for learning about methods of categorical data analysis, including the specialized case of species data. Many materials are linked below, and others are included in the folders above.
 
-For getting a general sense of what to do with your data and how to work with it in R, I found the `vcdExtra` tutorial and the Penn State course very helpful. The Agresti book (in general-materials folder) is also extremely useful, and I linked below an associated R manual. Humble word of advice: start with categorical data analysis in general, and then move on to `caper` or `phylolm` for phylogenetic methods. The main difference is that you will use a phylogeny along with your data, but that can complicate things.
+For getting a general sense of what to do with your data and how to work with it in R, I found the `vcdExtra` tutorial and the Penn State course very helpful. The Agresti book is also extremely useful, and also includes an associated R manual (both in general-materials folder). Humble word of advice: start with categorical data analysis in general, and then move on to `caper` or `phylolm` for phylogenetic methods. The main difference is that you will use a phylogeny along with your data, but that can complicate things.
 
 Another humble word of advice: it matters if your response variable is binary. If your response variable is binary, you will need to use a specialized case of `glm` (`family = "binomial"`) and a special function from the `rr2` package (`BinaryPGLMM`).
 
