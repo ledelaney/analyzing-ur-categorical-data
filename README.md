@@ -1,4 +1,4 @@
-<img src="https://i1.wp.com/www.sammichespsychmeds.com/wp-content/uploads/2014/09/data-analysis-meme.jpg" width="400" height="200" />
+<img src="https://i1.wp.com/www.sammichespsychmeds.com/wp-content/uploads/2014/09/data-analysis-meme.jpg" width="320" height="200" />
 
 # Analysis of Categorical (Discrete) Data
 
