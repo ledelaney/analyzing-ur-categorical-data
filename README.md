@@ -1,6 +1,8 @@
 # Analysis of Categorical (Discrete) Data
 
-Find below some helpful websites for learning about methods of categorical data analysis. Personally I found the PennState course to be the most helpful, as it also includes associated R tutorials. Humble word of advice: start with categorical data analysis in general, and then move on to `caper` or `phylolm` for phylogenetic methods. The main difference is that you will use a phylogeny along with your data, but that can complicate things.
+This repo includes a collection of resources that may be helpful for learning about methods of categorical data analysis, including the specialized case of species data. Many materials are linked below, and others are included in the folders above.
+
+For getting a general sense of what to do with your data and how to work with it in R, I found the `vcdExtra` tutorial and the Penn State course very helpful. The Agresti book (in general-materials folder) is also extremely useful, and I linked below an associated R manual. Humble word of advice: start with categorical data analysis in general, and then move on to `caper` or `phylolm` for phylogenetic methods. The main difference is that you will use a phylogeny along with your data, but that can complicate things.
 
 Another humble word of advice: it matters if your response variable is binary. If your response variable is binary, you will need to use a specialized case of `glm` (`family = "binomial"`) and a special function from the `rr2` package (`BinaryPGLMM`).
 
@@ -8,6 +10,7 @@ For visualizing the output, I cannot speak highly enough about `vcdExtra` (for n
 
 ## For analysis of general data
 
++ [Analyzing categorical data with `vcdExtra` tutorial](https://www.datavis.ca/courses/VCD/vcd-tutorial.pdf)
 + [PennState graduate course on Analysis of Discrete Data](https://online.stat.psu.edu/stat504/lesson/welcome-stat-504)
   - [R programs specifically](https://online.stat.psu.edu/stat504/lesson/r-programs)
 + [Categorical data analysis in R from Boston University](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R6_CategoricalDataAnalysis/index.html)
