@@ -2,7 +2,7 @@
 
 Find below some helpful websites for learning about categorical data analysis. Personally I found the PennState course to be the most helpful, as it also includes associated R tutorials. Humble word of advice: start with categorical data analysis in general, and then move on to `caper` or `phylolm` for phylogenetic methods. The main difference is that you will use a phylogeny along with your data, but that can complicate things.
 
-Another humble word of advice: it matters if your response variable is binary or continuous. If your response variable is binary, you will need to use a specialized case of `glm` (`family = "binomial"`) and a special function from the `rr2` package (`BinaryPGLMM`).
+Another humble word of advice: it matters if your response variable is binary. If your response variable is binary, you will need to use a specialized case of `glm` (`family = "binomial"`) and a special function from the `rr2` package (`BinaryPGLMM`).
 
 For visualizing the output, I cannot speak highly enough about `vcdExtra` (for non-phylogentic data).
 
