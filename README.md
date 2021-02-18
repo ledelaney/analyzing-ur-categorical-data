@@ -17,7 +17,7 @@ For visualizing the output, I cannot speak highly enough about `vcdExtra` (for n
   - [R programs specifically](https://online.stat.psu.edu/stat504/lesson/r-programs)
 + [Categorical data analysis in R from Boston University](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R6_CategoricalDataAnalysis/index.html)
 + [Slide presentation on log-linear models for contingency tables](https://education.illinois.edu/docs/default-source/carolyn-anderson/edpsy589/lectures/6-loglinear/6_loglinear_models_beamer-online.pdf)
-+ [Watch me personally test every kind of relationship under the sun for one binary response variable and 3 explanatory variables](https://ledelaney.org/projects/whitepapers/trait-association-model-fitting.html)
++ [Watch me personally test every kind of relationship under the sun for one binary response variable and 3 predictor variables](https://ledelaney.org/projects/whitepapers/trait-association-model-fitting.html)
 
 ## For analysis of species data
 
