@@ -19,3 +19,4 @@ For visualizing the output, I cannot speak highly enough about `vcdExtra` (for n
 + [Phylogenetic linear regression for non-binary response data: R package `caper`](https://cran.r-project.org/web/packages/caper/vignettes/caper.pdf)
 + [Phylogenetic regression for binary response variable](https://leanpub.com/correlateddata/read#leanpub-auto-phylogenetic-regression-for-binary-data)
 + [Calculating predicted R^2 values for `BinaryPGLMM` results](https://github.com/arives/rr2)
++ Check out Chapter 9 in the book _Modern Phylogenetic Comparative Methods and Their Application in Evolutionary Biology_ (included in materials)
