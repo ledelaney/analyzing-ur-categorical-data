@@ -1,6 +1,6 @@
 <img src="https://i1.wp.com/www.sammichespsychmeds.com/wp-content/uploads/2014/09/data-analysis-meme.jpg" width="320" height="200" />
 
-# Analysis of Categorical (Discrete) Data
+# Analysis of Categorical Data
 
 This repo includes a collection of resources that may be helpful for learning about methods of categorical data analysis, including the specialized case of species data. Many materials are linked below, and others are included in the folders above.
 
@@ -28,4 +28,4 @@ For visualizing the output, I cannot speak highly enough about `vcdExtra` (for n
 
 ## A note on data 
 
-These materials are specifically designed with nominal categorical variables in mind. Data like this has no order and is non-numeric (e.g., "married" or "divorced"). Discrete data is countable and numeric (like the number of times a coin landed on heads, or the number of customer complaints), but can be treated as categorical in cases some cases. Make sure you investigate what kind of data you have (discrete, continuous, ordinal, etc.) and make sure you are performing the appropriate test!
+These materials are specifically designed with nominal categorical variables in mind. Data like this has no order and is non-numeric (e.g., "married" or "divorced"). Discrete data is countable and numeric (like the number of times a coin landed on heads, or the number of customer complaints), but can be treated as categorical in cases some cases. Save yourself from my personal pitfalls and make sure you investigate what kind of data you have (discrete, continuous, ordinal, etc.) to ensure you are performing the proper tests.
