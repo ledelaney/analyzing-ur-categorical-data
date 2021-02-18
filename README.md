@@ -16,6 +16,6 @@ For visualizing the output, I cannot speak highly enough about `vcdExtra` (for n
 
 ## For analyzing species data
 
-+ [Phylogenetic linear regression for continuous response data: R package `caper`](https://cran.r-project.org/web/packages/caper/vignettes/caper.pdf)
++ [Phylogenetic linear regression for non-binary response data: R package `caper`](https://cran.r-project.org/web/packages/caper/vignettes/caper.pdf)
 + [Phylogenetic regression for binary response variable](https://leanpub.com/correlateddata/read#leanpub-auto-phylogenetic-regression-for-binary-data)
 + [Calculating predicted R^2 values for `BinaryPGLMM` results](https://github.com/arives/rr2)
