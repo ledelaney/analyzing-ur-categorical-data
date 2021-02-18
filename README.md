@@ -25,3 +25,6 @@ For visualizing the output, I cannot speak highly enough about `vcdExtra` (for n
 + [Phylogenetic regression for binary response variable](https://leanpub.com/correlateddata/read#leanpub-auto-phylogenetic-regression-for-binary-data)
 + [Calculating predicted R^2 values for `BinaryPGLMM` results](https://github.com/arives/rr2)
 + For a great primer on binary phylogenetic data, check out Chapter 9 in the book _Modern Phylogenetic Comparative Methods and Their Application in Evolutionary Biology_ (included in materials)
+
+
+_Note: These materials are specifically designed with nominal categorical variables in mind. Data like this has no order and is non-numeric (e.g., "married" or "divorced"). Discrete data is countable and numeric (like the number of times a coin landed on heads, or number of customer complaints), but can be treated as categorical in cases some cases._
